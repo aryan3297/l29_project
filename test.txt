@@ -1,5 +1,5 @@
-aub
-btech
+L29LAB TEST
+bcom bba
 aiml
 cse
 ONE LINE IN TEST BRNACH 
