@@ -4,6 +4,8 @@ aiml
 cse
 ONE LINE IN TEST BRNACH 
 new courses
+hi
+amity university
 AUB
 BTECH
 AIML
